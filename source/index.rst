@@ -29,6 +29,10 @@ applications of object capture and modelling, object recognition, pose
 estimation and refinement, projector-based augmented reality and chess
 playing.
 
+.. rubric:: The latest tagged release of ecto is 
+            `amoeba-beta3 <releases/amoeba-beta3>`_
+
+
 Releases
 ========
 
