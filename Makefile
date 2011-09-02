@@ -130,4 +130,4 @@ doctest:
 	      "results in $(BUILDDIR)/doctest/output.txt."
 
 deploy:	html
-	rsync -va $(BUILDDIR)/html/ ecto:/var/www/
+	rsync -va $(BUILDDIR)/html/ ecto.willowgarage.com:/var/www/
