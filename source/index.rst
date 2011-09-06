@@ -35,7 +35,7 @@ estimation and refinement, projector-based augmented reality and chess
 playing.
 
 .. rubric:: The latest tagged release of ecto is
-            `amoeba-beta3 <releases/amoeba-beta3>`_
+            `amoeba-beta4 <releases/amoeba-beta4>`_
 
 .. rubric:: "Bleeding edge" docs are at 
             `bleedingedge <releases/bleedingedge>`_
