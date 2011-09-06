@@ -7,6 +7,7 @@
 .. image:: ecto_4x4.jpg
    :align: center
    :width: 33%
+   :alt: Ethan hates this logo
 
 Ecto - a framework for perception
 ---------------------------------
