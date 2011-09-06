@@ -37,6 +37,9 @@ playing.
 .. rubric:: The latest tagged release of ecto is
             `amoeba-beta3 <releases/amoeba-beta3>`_
 
+.. rubric:: "Bleeding edge" docs are at 
+            `bleedingedge <releases/bleedingedge>`_
+
 
 Releases
 ^^^^^^^^
