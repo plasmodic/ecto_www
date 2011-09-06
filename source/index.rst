@@ -14,7 +14,7 @@ Ecto - a framework for perception
 
 Initially aimed at computer vision and perception research tasks, Ecto
 is a hybrid C++/Python framework for organizing computations as
-directed acyclic graphs of computing vertices connected by typed
+directed acyclic graphs of computing 'cells' connected by typed
 edges.  These graphs are typically constructed via Python script and
 executed in a single process (and possibly multiple threads) by
 external schedulers.  The computing nodes are written in C++ against a
@@ -62,9 +62,7 @@ Buildbots
 ^^^^^^^^^
 
 There are `buildbots <http://ecto.willowgarage.com:8010/waterfall>`_ working
-round the clock to serve you.
-
-
+round the clock to serve you.  
 
 
 
