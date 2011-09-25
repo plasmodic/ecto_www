@@ -37,7 +37,7 @@ playing.
 .. rubric:: The latest tagged release of ecto is
             `amoeba-beta4 <releases/amoeba-beta4>`_
 
-.. rubric:: "Bleeding edge" docs are at 
+.. rubric:: "Bleeding edge" docs are at
             `bleedingedge <releases/bleedingedge>`_
 
 
@@ -58,11 +58,16 @@ choice or this `web client
 <http://www.wsirc.com/?username=wsirc_******&server=irc.oftc.net%3A6667&channel=%23ecto&autojoin=true&color=%23C0C0C0&dark=false>`_
 
 
+Mailing List
+^^^^^^^^^^^^
+
+http://groups.google.com/a/plasmodic.org/?hl=en
+
 Buildbots
 ^^^^^^^^^
 
 There are `buildbots <http://ecto.willowgarage.com:8010/waterfall>`_ working
-round the clock to serve you.  
+round the clock to serve you.
 
 
 
