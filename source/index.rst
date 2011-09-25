@@ -24,9 +24,10 @@ to deployment.
 
 Ecto itself is small, has minimal dependencies (C++, Boost, Python)
 and works with or without OpenCV, PCL, and ROS in any combination.  We
-believe that Ecto allows vision and perception researchers to express
-their computational models in a natural fashion, obviating e.g. ROS
-[#ROS]_ time synchronizers and ROS nodelets in most cases.
+believe that Ecto allows vision and perception researchers to `express
+<http://goo.gl/J3TJF>`_ their computational models in a natural
+fashion, obviating e.g. ROS [#ROS]_ time synchronizers and ROS
+nodelets in most cases.
 
 As of August 2011, Ecto is in its first beta release.  It is being
 used by researchers at Willow Garage and in industry for prototype
