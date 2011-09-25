@@ -62,7 +62,8 @@ choice or this `web client
 Mailing List
 ^^^^^^^^^^^^
 
-http://groups.google.com/a/plasmodic.org/?hl=en
+http://groups.google.com/a/plasmodic.org/group/ecto-dev/topics
+
 
 Buildbots
 ^^^^^^^^^
